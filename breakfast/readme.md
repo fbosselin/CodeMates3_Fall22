@@ -1,4 +1,4 @@
-# Replace with recipe name
+# Chocolate Chia Pudding
 
 ## Servings: 
 
