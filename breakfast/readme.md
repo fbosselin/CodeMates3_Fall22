@@ -1,6 +1,8 @@
 # Replace with recipe name
 
-## Servings: 3 tasty servings!
+## Servings: 
+
+  3 tasty servings!
 
 ## Time to prepare: 
 
