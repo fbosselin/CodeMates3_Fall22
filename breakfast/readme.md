@@ -1,4 +1,6 @@
-# Chocolate Chia Pudding
+
+# Chocolate Chia Seed Pudding
+
 
 ## Servings: 
 
@@ -8,9 +10,11 @@
 
 ## Ingredients:
 
-
 ## Equipment needed: 
-High power blender, spatula, and resealable container (plastic or glass)
+-   High power blender
+-   Spatula
+-   Resealable container (plastic or glass)
+
 
 ## Steps for preparation:
 
