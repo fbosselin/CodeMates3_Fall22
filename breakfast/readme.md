@@ -2,6 +2,8 @@
 
 ## Servings: 
 
+  3 tasty servings!
+
 ## Time to prepare: 
 
 ## Ingredients:
