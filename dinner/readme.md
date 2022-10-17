@@ -3,15 +3,42 @@
 ## Servings: 
 
 ## Time to prepare: 
+- Prep Time: 10 minutes
+- Cook Time: 25 minutes
 
 ## Ingredients:
-
+- 2 lb boneless, skinless chicken breast, cubed
+- salt and pepper for seasoning to taste salt
+- 2 teaspoons chili powder, divided
+- ½ teaspoon turmeric
+- 6 tablespoons butter, divided
+- 1 ½ cups yellow onion, diced
+- 3 teaspoons garam masala
+- 1 teaspoon cumin
+- 1 teaspoon cayenne pepper
+- 1 tablespoon ginger, grated
+- 3 cloves garlic, minced
+- 1 cinnamon, 3 inch (8 cm) stick
+- 14 oz tomato sauce
+- 1 cup water
+- 1 cup heavy cream
+- rice for serving
+- fresh cilantro for garnish
 
 ## Equipment needed:
 
 
 ## Steps for preparation:
 
+1. In a large bowl, season the chicken breast with salt, pepper, 1 teaspoon of chili powder, and the teaspoon of turmeric. Let sit for 15 minutes to marinate.
+2. Melt 2 tablespoons of butter in a large pot over medium heat. Brown the chicken, then remove from the pot.
+3. Melt another 2 tablespoons of butter in the pot, then add the onion, garam masala, remaining teaspoon of chili powder, the cumin, ginger, garlic, cayenne, cinnamon, salt and pepper. Cook until fragrant.
+4. Add the tomato sauce and bring to a simmer.
+5. Add the water and cream and return to a simmer.
+6. Return the chicken to the pot, cover, and simmer for another 10-15 minutes.
+7. Stir in the last 2 tablespoons of butter and season with more salt and pepper to taste.
+8. Serve the chicken over rice and garnish with cilantro.
+9. Enjoy!
 
 
 ### Notes:
@@ -19,3 +46,8 @@
 
 
 ### Codemates #
+- Connor Haley @chaley17
+- Kendall Lam @unsanforized
+- Lily Peng @penglb
+- Felipe Bosselin @fbosselin
+- Hoang To @Tojtt
