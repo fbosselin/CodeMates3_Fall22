@@ -1,4 +1,4 @@
-# Replace with recipe name
+# Easy Butter Chicken for Butter (and Indian Food) Lovers
 
 ## Servings: 
 

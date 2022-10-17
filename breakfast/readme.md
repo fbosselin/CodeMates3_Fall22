@@ -21,7 +21,9 @@
 
 
 ### Notes:
+If you do not blend the chia seeds it will have a less smooth and creamy texture, more similar to regular chia seed pudding.
 
+You can also use stevia, honey, or monkfruit sweetener as alternatives to maple syrup.
 
 
 ### Codemates #
