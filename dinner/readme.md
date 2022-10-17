@@ -37,3 +37,7 @@
 
 
 ### Codemates #
+- Connor Haley @chaley17
+- Kendall Lam @unsanforized
+- Lily Peng @penglb
+- Felipe Bosselin @fbosselin
