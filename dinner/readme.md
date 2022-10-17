@@ -3,6 +3,8 @@
 ## Servings: 
 
 ## Time to prepare: 
+- Prep Time: 10 minutes
+- Cook Time: 25 minutes
 
 ## Ingredients:
 - 2 lb boneless, skinless chicken breast, cubed
@@ -35,3 +37,8 @@
 
 
 ### Codemates #
+- Connor Haley @chaley17
+- Kendall Lam @unsanforized
+- Lily Peng @penglb
+- Felipe Bosselin @fbosselin
+- Hoang To @Tojtt
