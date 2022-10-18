@@ -1,6 +1,7 @@
 # Easy Butter Chicken for Butter (and Indian Food) Lovers
 
 ## Servings: 
+This recipe makes four servings 
 
 ## Time to prepare: 
 - Prep Time: 10 minutes
